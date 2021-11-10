@@ -1,0 +1,7 @@
+Inferno, N/A, 1, Dan Brown, Conspiracy Fiction, 642, 7.15, 11, 1 5 2013, 978-140007915-5, N/A
+Origin, N/A, 1, Dan Brown, Adventure Fiction, 461, 10.99, 10, 3 10 2017, 978-059307875-4, N/A
+1984, N/A, 1, George Orwell, Dystopian Fiction, 328, 9.99, 18, 8 6 1949, 978-045152493-5, 045152493-5
+Percy Jackson & the Olympians, The Sea of Monsters, 2, Rick Riordan, Young adult fiction, 279, 7.99, 25, 1 4 2006, 978-142310334-9, 142310334-3
+Percy Jackson & the Olympians, The Titan's Curse, 3, Rick Riordan, Young adult fiction, 312, 7.99, 14, 1 4 2007, 978-142310148-2, N/A
+Percy Jackson & The Olympians, The Last Olympian, 5, Rick Riordan, Young adult fiction, 381, 7.99, 25, 5 5 2009, 978-142310150-5, N/A
+Bedany, Manga, 1, TheBadeen, bedan, 420, 69.00, 69, 21 12 2008, 123-123213213-2, N/A

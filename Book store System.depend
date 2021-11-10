@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1614076898 source:c:\users\drogo\desktop\projects\c  projects\account system 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"func.h"
+	"data.h"
+
+1614010763 c:\users\drogo\desktop\projects\c  projects\account system 2\mycredin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"func.h"
+
+1614015509 source:c:\users\drogo\desktop\projects\c  projects\account system 2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"func.h"
+	"data.h"
+	"func.h"
+
+1614182509 c:\users\drogo\desktop\projects\c  projects\account system 2\data.h
+
+1614077198 c:\users\drogo\desktop\projects\c  projects\account system 2\func.h
+
+1614182509 source:c:\users\drogo\desktop\projects\c  projects\account system 2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"data.h"
+	"func.h"
+
+1614183235 source:c:\users\drogo\desktop\projects\c  projects\account system 2\customer_menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"data.h"
+	"func.h"
+
+1614010889 source:c:\users\drogo\desktop\projects\c  projects\account system 2\mycredin.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"func.h"
+
